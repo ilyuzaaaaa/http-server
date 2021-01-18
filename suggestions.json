@@ -1,0 +1,57 @@
+[
+  {
+    "id": "hel",
+    "name": "hello world",
+    "cost": 70
+  },
+  {
+    "id": "hel",
+    "name": "hello",
+    "cost": 10
+  },
+  {
+    "id": "hel",
+    "name": "helm",
+    "cost": 200
+  },
+  {
+    "id": "hel",
+    "name": "hello my world",
+    "cost": 1
+  },
+  {
+    "id": "par",
+    "name": "paradise",
+    "cost": 50
+  },
+  {
+    "id": "par",
+    "name": "parents",
+    "cost": 40
+  },
+  {
+    "id": "par",
+    "name": "participate",
+    "cost": 30
+  },
+  {
+    "id": "par",
+    "name": "paragraph",
+    "cost": 10
+  },
+  {
+    "id": "cou",
+    "name": "countries",
+    "cost": 50
+  },
+  {
+    "id": "cou",
+    "name": "count",
+    "cost": 40
+  },
+  {
+    "id": "cou",
+    "name": "course",
+    "cost": 30
+  }
+]
